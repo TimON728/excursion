@@ -351,7 +351,7 @@ with tab_excursions:
                 cols[2].write(f"**Передвижение:** {trans_icon} {row['transport']}")
                 cols[3].write(f"**Цена:** {row['price']:,} ₽")
                 cols[4].write(f"**Телефон:** {row['phone_number']}")
-                cols[5].write(f"**Длительность**  {row['duration_days']}")
+                cols[5].write(f"**Длительность**  {row['duration_hours']}")
 
 
                 st.write(f"**Гид:** {row['guide']} | **Маршрут:** {row['route']}")
