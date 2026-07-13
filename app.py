@@ -134,7 +134,7 @@ excursions = [
      "description": "Погружение в мир вепсов: мастер-класс по ткачеству, знакомство с обрядами и кухней. Посещение музея под открытым небом.",
      "phone_number": "+7 (921) 384 72 91",
      "route": "Доможирово → Курпово",
-     "image_url": "https://этнопетербург.рф/upload/resize_cache/iblock/409/600_450_185d52f3131d7c2e003ca2c902009a118/vepsy1.jpg",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Veps_traditional_house.jpg/1280px-Veps_traditional_house.jpg",
      "transport": "Автобусная"},
 
     {"id": 2, "title": "Тропы Нижне-Свирского заповедника", "type": "Природа", "capacity": "Индивидуальная",
@@ -142,7 +142,7 @@ excursions = [
      "price": 6000, "guide": "Игорь Семёнович",
      "description": "Прогулка по деревянным настилам над болотами. Наблюдение за птицами, поиск следов диких животных. Эко-тропа средней сложности.",
      "phone_number": "+7 (911) 503 82 74", "route": "Доможирово → Центр заповедника",
-     "image_url": "https://n-svirsky.ru/upload/photo/losscoptera.jpeg",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Boardwalk_in_wetland_reserve.jpg/1280px-Boardwalk_in_wetland_reserve.jpg",
      "transport": "Пешая"},
 
     {"id": 3, "title": "История флота: от Петра до наших дней", "type": "История", "capacity": "Групповая",
@@ -150,14 +150,14 @@ excursions = [
      "guide": "Михаил Андреевич",
      "description": "Прогулка по набережной Лодейного Поля, где строились первые корабли Балтийского флота. Посещение краеведческого музея и осмотр памятных мест.",
      "phone_number": "+7 (981) 294 61 83", "route": "Набережная → Музей",
-     "image_url": "https://историческийбагаж.рф/static/place/hr_8538-4554.jpg",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Peter_the_Great_shipbuilding_model.jpg/1280px-Peter_the_Great_shipbuilding_model.jpg",
      "transport": "Пешая"},
 
-    {"id": 4, "title": "Магия оятской керамики", "type": "Ремёсла", "capacity": "Индивидуальная", "duration_hours": "2.5 часа",
+    {"id": 4, "title": "Мастер‑класс: Магия оятской керамики", "type": "Мастер-класс", "capacity": "Индивидуальная", "duration_hours": "2.5 часа",
      "price": 4500, "guide": "Елена Сергеевна",
      "description": "Мастер-класс в центре гончарного промысла в Алёховщине. Вы сами создадите изделие из местной глины под руководством мастера.",
      "phone_number": "+7 (921) 739 48 26", "route": "Алёховщина (Центр ремёсел)",
-     "image_url": "https://mirdcer.ru/images/0_2024/06_LA/440.JPG",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Pottery_wheel_clay_craft.jpg/1280px-Pottery_wheel_clay_craft.jpg",
      "transport": "Комбинированная"},
 
     {"id": 5, "title": "Паломнический круг: Монастыри Присвирья", "type": "Духовность", "capacity": "Групповая",
@@ -165,7 +165,7 @@ excursions = [
      "price": 5000, "guide": "Отец Дмитрий",
      "description": "Посещение Александро-Свирского и Покрово-Тервенического монастырей. Рассказ об истории обителей и чудотворных иконах.",
      "phone_number": "+7 (999) 182 57 39", "route": "Старая Слобода → Тервеничи",
-     "image_url": "https://img-fotki.yandex.ru/get/6837/81294148.11/0_cc3ba_583e5c55_XL.jpg",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Monastery_white_walls_lake_view.jpg/1280px-Monastery_white_walls_lake_view.jpg",
      "transport": "Автобусная"},
 
     {"id": 6, "title": "Индустриальный гигант: Нижне-Свирская ГЭС", "type": "Индустриальный туризм",
@@ -176,11 +176,11 @@ excursions = [
      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Вид_на_плотину_с_крыши_главного_корпуса.jpg/1280px-Вид_на_плотину_с_крыши_главного_корпуса.jpg",
      "transport": "Автобусная"},
 
-    {"id": 7, "title": "Квест 'Тайны северной земли'", "type": "Активный", "capacity": "Семейная", "duration_hours": "3 часа",
+    {"id": 7, "title": "Квест: Тайны северной земли", "type": "Квест", "capacity": "Семейная", "duration_hours": "3 часа",
      "price": 5500, "guide": "Алексей Владимирович",
      "description": "Игровой маршрут с загадками и поиском артефактов. Подходит для семей с детьми и молодежных компаний. Элементы ориентирования на местности.",
      "phone_number": "+7 (981) 853 27 41", "route": "Лесные тропы у Янеги",
-     "image_url": "https://avatars.mds.yandex.net/i?id=00438b97c5a6e22b9fcd43b1a00b5fae_l-5220454-images-thumbs&n=13",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Forest_treasure_hunt_group.jpg/1280px-Forest_treasure_hunt_group.jpg",
      "transport": "Пешая"},
 
     {"id": 8, "title": "Вкусы Севера: Гастротур", "type": "Гастрономия", "capacity": "Индивидуальная",
@@ -188,7 +188,7 @@ excursions = [
      "price": 6500, "guide": "Ольга Николаевна",
      "description": "Дегустация северной кухни: калитки, пироги с грибами, травяные чаи. Посещение местных ферм и пекарни.",
      "phone_number": "+7 (921) 492 68 37", "route": "Алёховщина → Тервеничи",
-     "image_url": "http://sladostisevera.ru/d/kalitka_karelskaya_rzhanaya.jpg",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Northern_rye_pies_table.jpg/1280px-Northern_rye_pies_table.jpg",
      "transport": "Автобусная"},
 
     {"id": 9, "title": "Рассвет над Свирью: Фото-прогулка", "type": "Творчество", "capacity": "Индивидуальная",
@@ -196,7 +196,7 @@ excursions = [
      "price": 7000, "guide": "Марина Викторовна",
      "description": "Ранний выезд на точку рассвета. Гид-фотограф поможет поймать лучший свет и расскажет о композиции. Идеально для любителей фотографии.",
      "phone_number": "+7 (911) 275 93 84", "route": "Побережье Свири (район Рассвета)",
-     "image_url": "https://avatars.mds.yandex.net/i?id=c6b492e519efe6d3ae1fe8d603bae4ebec230a7d-5235458-images-thumbs&n=13",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sunrise_over_river_mist.jpg/1280px-Sunrise_over_river_mist.jpg",
      "transport": "Комбинированная"},
 
     {"id": 10, "title": "Этно-деревня: Жизнь северян", "type": "Этнография", "capacity": "Групповая",
@@ -204,10 +204,10 @@ excursions = [
      "price": 4200, "guide": "Валентина Михайловна",
      "description": "Экскурсия в Андреевщину (центр «Кондуши»). Знакомство с карельским бытом, песнями и традиционными ремёслами.",
      "phone_number": "+7 (981) 368 51 92", "route": "Андреевщина (Центр «Кондуши»)",
-     "image_url": "https://avatars.mds.yandex.net/i?id=6bc5c8350c9ec9a72883bc56011d45ce_l-5504208-images-thumbs&n=13",
+     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Karelian_village_house_interior.jpg/1280px-Karelian_village_house_interior.jpg",
      "transport": "Автобусная"},
 
-    {"id": 11, "title": "Оятская игрушка: лепим своими руками", "type": "Ремёсла", "capacity": "Школьная",
+    {"id": 11, "title": "Мастер‑класс: Оятская игрушка — лепим своими руками", "type": "Мастер-класс", "capacity": "Школьная",
      "duration_hours": "1.5 часа",
      "price": 2500, "guide": "Елена Сергеевна",
      "description": "Мастер-класс по лепке традиционной оятской игрушки в Алёховщине. Каждый участник заберёт домой свой сувенир.",
@@ -215,7 +215,7 @@ excursions = [
      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Traditional_clay_toy_Russia.jpg/1280px-Traditional_clay_toy_Russia.jpg",
      "transport": "На личном автотранспорте"},
 
-    {"id": 12, "title": "Квест 'Загадки Свири'", "type": "Активный", "capacity": "Семейная",
+    {"id": 12, "title": "Квест: Загадки Свири", "type": "Квест", "capacity": "Семейная",
      "duration_hours": "2 часа",
      "price": 4000, "guide": "Алексей Владимирович",
      "description": "Городской квест по Лодейному Полю: разгадываем исторические загадки, ищем подсказки на улицах и узнаём город с новой стороны.",
@@ -223,7 +223,7 @@ excursions = [
      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/City_scavenger_hunt_group.jpg/1280px-City_scavenger_hunt_group.jpg",
      "transport": "Пешая"},
 
-    {"id": 13, "title": "Северные узоры: роспись по дереву", "type": "Ремёсла", "capacity": "Индивидуальная",
+    {"id": 13, "title": "Мастер‑класс: Северные узоры — роспись по дереву", "type": "Мастер-класс", "capacity": "Индивидуальная",
      "duration_hours": "2 часа",
      "price": 3500, "guide": "Валентина Михайловна",
      "description": "Мастер-класс по росписи деревянных изделий в стиле северных орнаментов. Создадим сувенир с традиционным узором.",
@@ -258,6 +258,7 @@ map_locations = [
      "desc": "Место, где можно встретить рассвет над Свирью. Первые лучи солнца золотят водную гладь."},
     {"name": "Янега", "desc": "Тихий уголок сосновых боров. Земля усыпана мягким ковром из мха и черники. Здесь проходят лесные квесты и прогулки по тропам."}
 ]
+
 
 if "is_logged_in" not in st.session_state:
     st.session_state.is_logged_in = False
