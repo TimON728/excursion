@@ -259,8 +259,6 @@ map_locations = [
     {"name": "Янега", "desc": "Тихий уголок сосновых боров. Земля усыпана мягким ковром из мха и черники. Здесь проходят лесные квесты и прогулки по тропам."}
 ]
 
-]
-
 if "is_logged_in" not in st.session_state:
     st.session_state.is_logged_in = False
 if "user_email" not in st.session_state:
