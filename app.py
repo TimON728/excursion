@@ -204,7 +204,7 @@ excursions = [
      "price": 4200, "guide": "Валентина Михайловна",
      "description": "Экскурсия в Андреевщину (центр «Кондуши»). Знакомство с карельским бытом, песнями и традиционными ремёслами.",
      "phone_number": "+7 (981) 368 51 92", "route": "Андреевщина (Центр «Кондуши»)",
-     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Karelian_village_house_interior.jpg/1280px-Karelian_village_house_interior.jpg",
+     "image_url": "https://avatars.mds.yandex.net/i?id=b25e00e7f41a216d1e6e7598f93775fd_l-4456735-images-thumbs&n=13",
      "transport": "Автобусная"},
 
     {"id": 11, "title": "Мастер‑класс: Оятская игрушка — лепим своими руками", "type": "Мастер-класс", "capacity": "Школьная",
@@ -212,7 +212,7 @@ excursions = [
      "price": 2500, "guide": "Елена Сергеевна",
      "description": "Мастер-класс по лепке традиционной оятской игрушки в Алёховщине. Каждый участник заберёт домой свой сувенир.",
      "phone_number": "+7 (999) 741 82 56", "route": "Алёховщина (Центр ремёсел)",
-     "image_url": "https://avatars.mds.yandex.net/get-mpic/11167279/2a000001954c60a34d2d73a018e2df92b757/origg",
+     "image_url": "https://avatars.mds.yandex.net/get-mpic/11167279/2a000001954c60a34d2d73a018e2df92b757/orig",
      "transport": "На личном автотранспорте"},
 
     {"id": 12, "title": "Квест: Загадки Свири", "type": "Квест", "capacity": "Семейная",
