@@ -180,7 +180,7 @@ excursions = [
      "price": 5500, "guide": "Алексей Владимирович",
      "description": "Игровой маршрут с загадками и поиском артефактов. Подходит для семей с детьми и молодежных компаний. Элементы ориентирования на местности.",
      "phone_number": "+7 (981) 853 27 41", "route": "Лесные тропы у Янеги",
-     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Forest_treasure_hunt_group.jpg/1280px-Forest_treasure_hunt_group.jpg",
+     "image_url": "https://avatars.mds.yandex.net/i?id=f845d1e1fa7b4abbfeaaa6f4a70db819_l-5261734-images-thumbs&n=13",
      "transport": "Пешая"},
 
     {"id": 8, "title": "Вкусы Севера: Гастротур", "type": "Гастрономия", "capacity": "Индивидуальная",
@@ -196,7 +196,7 @@ excursions = [
      "price": 7000, "guide": "Марина Викторовна",
      "description": "Ранний выезд на точку рассвета. Гид-фотограф поможет поймать лучший свет и расскажет о композиции. Идеально для любителей фотографии.",
      "phone_number": "+7 (911) 275 93 84", "route": "Побережье Свири (район Рассвета)",
-     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sunrise_over_river_mist.jpg/1280px-Sunrise_over_river_mist.jpg",
+     "image_url": "https://online47.ru/media/photo/37/2020/08/992affe46b.jpg",
      "transport": "Комбинированная"},
 
     {"id": 10, "title": "Этно-деревня: Жизнь северян", "type": "Этнография", "capacity": "Групповая",
@@ -212,7 +212,7 @@ excursions = [
      "price": 2500, "guide": "Елена Сергеевна",
      "description": "Мастер-класс по лепке традиционной оятской игрушки в Алёховщине. Каждый участник заберёт домой свой сувенир.",
      "phone_number": "+7 (999) 741 82 56", "route": "Алёховщина (Центр ремёсел)",
-     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Traditional_clay_toy_Russia.jpg/1280px-Traditional_clay_toy_Russia.jpg",
+     "image_url": "https://avatars.mds.yandex.net/get-mpic/11167279/2a000001954c60a34d2d73a018e2df92b757/origg",
      "transport": "На личном автотранспорте"},
 
     {"id": 12, "title": "Квест: Загадки Свири", "type": "Квест", "capacity": "Семейная",
@@ -228,7 +228,7 @@ excursions = [
      "price": 3500, "guide": "Валентина Михайловна",
      "description": "Мастер-класс по росписи деревянных изделий в стиле северных орнаментов. Создадим сувенир с традиционным узором.",
      "phone_number": "+7 (911) 927 48 36", "route": "Андреевщина (Центр «Кондуши»)",
-     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Wood_painting_craft_Russia.jpg/1280px-Wood_painting_craft_Russia.jpg",
+     "image_url": "https://sun9-64.userapi.com/impf/DZFkO-fUIFYN2Hs8Ly3atuBn2Lj-08fjo7c4LA/DMyGVY--4CE.jpg?size=807x605&quality=96&sign=5a7bafaf46bd8f4b28ca3cf4a23dbbd1&type=album",
      "transport": "На личном автотранспорте"}
 ]
 
