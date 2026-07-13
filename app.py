@@ -134,7 +134,7 @@ excursions = [
      "description": "Погружение в мир вепсов: мастер-класс по ткачеству, знакомство с обрядами и кухней. Посещение музея под открытым небом.",
      "phone_number": "+7 (921) 384 72 91",
      "route": "Доможирово → Курпово",
-     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Veps_traditional_house.jpg/1280px-Veps_traditional_house.jpg",
+     "image_url": "https://этнопетербург.рф/upload/resize_cache/iblock/409/600_450_185d52f3131d7c2e003ca2c902009a118/vepsy1.jpg",
      "transport": "Автобусная"},
 
     {"id": 2, "title": "Тропы Нижне-Свирского заповедника", "type": "Природа", "capacity": "Индивидуальная",
@@ -142,7 +142,7 @@ excursions = [
      "price": 6000, "guide": "Игорь Семёнович",
      "description": "Прогулка по деревянным настилам над болотами. Наблюдение за птицами, поиск следов диких животных. Эко-тропа средней сложности.",
      "phone_number": "+7 (911) 503 82 74", "route": "Доможирово → Центр заповедника",
-     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Boardwalk_in_wetland_reserve.jpg/1280px-Boardwalk_in_wetland_reserve.jpg",
+     "image_url": "https://n-svirsky.ru/upload/photo/losscoptera.jpeg",
      "transport": "Пешая"},
 
     {"id": 3, "title": "История флота: от Петра до наших дней", "type": "История", "capacity": "Групповая",
@@ -150,14 +150,14 @@ excursions = [
      "guide": "Михаил Андреевич",
      "description": "Прогулка по набережной Лодейного Поля, где строились первые корабли Балтийского флота. Посещение краеведческого музея и осмотр памятных мест.",
      "phone_number": "+7 (981) 294 61 83", "route": "Набережная → Музей",
-     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Peter_the_Great_shipbuilding_model.jpg/1280px-Peter_the_Great_shipbuilding_model.jpg",
+     "image_url": "https://историческийбагаж.рф/static/place/hr_8538-4554.jpg",
      "transport": "Пешая"},
 
     {"id": 4, "title": "Мастер‑класс: Магия оятской керамики", "type": "Мастер-класс", "capacity": "Индивидуальная", "duration_hours": "2.5 часа",
      "price": 4500, "guide": "Елена Сергеевна",
      "description": "Мастер-класс в центре гончарного промысла в Алёховщине. Вы сами создадите изделие из местной глины под руководством мастера.",
      "phone_number": "+7 (921) 739 48 26", "route": "Алёховщина (Центр ремёсел)",
-     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Pottery_wheel_clay_craft.jpg/1280px-Pottery_wheel_clay_craft.jpg",
+     "image_url": "https://mirdcer.ru/images/0_2024/06_LA/440.JPG",
      "transport": "Комбинированная"},
 
     {"id": 5, "title": "Паломнический круг: Монастыри Присвирья", "type": "Духовность", "capacity": "Групповая",
@@ -165,7 +165,7 @@ excursions = [
      "price": 5000, "guide": "Отец Дмитрий",
      "description": "Посещение Александро-Свирского и Покрово-Тервенического монастырей. Рассказ об истории обителей и чудотворных иконах.",
      "phone_number": "+7 (999) 182 57 39", "route": "Старая Слобода → Тервеничи",
-     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Monastery_white_walls_lake_view.jpg/1280px-Monastery_white_walls_lake_view.jpg",
+     "image_url": "https://img-fotki.yandex.ru/get/6837/81294148.11/0_cc3ba_583e5c55_XL.jpg",
      "transport": "Автобусная"},
 
     {"id": 6, "title": "Индустриальный гигант: Нижне-Свирская ГЭС", "type": "Индустриальный туризм",
@@ -188,7 +188,7 @@ excursions = [
      "price": 6500, "guide": "Ольга Николаевна",
      "description": "Дегустация северной кухни: калитки, пироги с грибами, травяные чаи. Посещение местных ферм и пекарни.",
      "phone_number": "+7 (921) 492 68 37", "route": "Алёховщина → Тервеничи",
-     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Northern_rye_pies_table.jpg/1280px-Northern_rye_pies_table.jpg",
+     "image_url": "http://sladostisevera.ru/d/kalitka_karelskaya_rzhanaya.jpg",
      "transport": "Автобусная"},
 
     {"id": 9, "title": "Рассвет над Свирью: Фото-прогулка", "type": "Творчество", "capacity": "Индивидуальная",
@@ -220,7 +220,7 @@ excursions = [
      "price": 4000, "guide": "Алексей Владимирович",
      "description": "Городской квест по Лодейному Полю: разгадываем исторические загадки, ищем подсказки на улицах и узнаём город с новой стороны.",
      "phone_number": "+7 (921) 583 74 91", "route": "Лодейное Поле (центр)",
-     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/City_scavenger_hunt_group.jpg/1280px-City_scavenger_hunt_group.jpg",
+     "image_url": "https://www.fiesta.ru/uploads/slider_image/image/219901/v880_telegram_AgACAgIAAx0CQKXTTQABAXZWaKi_CaEmuMrT_WVqRMayVYRQPSsAApf6MRuXzCFJ5J4YdZMuElcBAAMCAAN5AAM2BA.jpg",
      "transport": "Пешая"},
 
     {"id": 13, "title": "Мастер‑класс: Северные узоры — роспись по дереву", "type": "Мастер-класс", "capacity": "Индивидуальная",
